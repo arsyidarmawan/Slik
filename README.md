@@ -7,4 +7,6 @@ https://docs.google.com/forms/d/e/1FAIpQLSfJRSHq4hhYJn6i8rVkvyN4eLn5GlHDhBQjoZK2
 
 QR Code Absensi
 
-![QR-Absensi_SLIK](https://github.com/user-attachments/assets/bc4d117b-4a9b-4c4d-b3fe-7a3d95006974)
+
+![QR-Absensi_SLIK](https://github.com/user-attachments/assets/3ef95fdd-3ac5-499b-8085-c820a57db710)
+
